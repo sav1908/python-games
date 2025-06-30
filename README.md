@@ -53,4 +53,4 @@ Collection of basic python games:
       python number_guesser.py
 
 
-  3. 
+
