@@ -53,4 +53,34 @@ Collection of basic python games:
       python number_guesser.py
 
 
+3. Pong
 
+Classic 2-player Pong game using turtle library
+
+How to play
+
+Player A controls left paddle:
+  - `W` key: Move paddle up
+  - `S` key: Move paddle down
+
+Player B controls right paddle:
+  - `↑` key: Move paddle up
+  - `↓` key: Move paddle down
+
+Just like air hockey, with a massive area to score a goal. Each time your opponent misses the ball, you score a point. The game continues endlessly, and scores are updated in real-time.
+
+Features
+
+- Real time ball and paddle movement
+- Collision detection with paddles and screen borders
+- Real time score updates
+- Clean and simple UI with turtle graphics
+
+Getting started
+
+1. Install python (if not already installed):  
+   [download python](https://www.python.org/downloads/)
+
+2. Run the game:
+   ```bash
+   python pong.py
